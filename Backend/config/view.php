@@ -14,7 +14,7 @@ return [
     */
 
     'paths' => [
-        base_path('./Frontend'),
+        base_path('../Frontend'),
     ],
 
     /*

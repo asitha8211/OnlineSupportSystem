@@ -14,5 +14,17 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
+    return view('initialPage');
+});
+
+Route::get('/login', function () {
+    return view('login');
+});
+
+Route::get('/open_ticket', function () {
     return view('openTicket');
+});
+
+Route::get('/ticket_list', function () {
+    return view('viewTicketList');
 });
