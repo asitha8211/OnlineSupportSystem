@@ -1,0 +1,43 @@
+.member-list {
+    text-align: center;
+}
+.add-member-primary {
+    width: 200px;
+}
+.member-button-container {
+    padding-left: 60px;
+}
+.delete-member {
+    color: red;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.delete-member:hover {
+    color: darkblue;
+}
+
+.edit-member {
+    color: green;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.edit-member:hover {
+    color: darkblue;
+}
+
+body {
+    background-color: powderblue;
+}
+
+.row-one {
+    height: 120px;
+}
+
+.row-two {
+    height: 120px;
+}
+
+.row-three {
+    height: 360px;
+}
+

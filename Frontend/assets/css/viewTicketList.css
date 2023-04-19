@@ -1,0 +1,89 @@
+body {
+    background-color: powderblue;
+}
+
+.label-name {
+    text-align: right;
+}
+
+label {
+    font-weight: bold;
+}
+
+.label-name-division {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: right;
+}
+
+.label-name-dob {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: right;
+}
+
+.division-dropdown {
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.dob-input {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+}
+
+.col-2 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.col-3 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.col-6 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+.row {
+    padding-left: 5px;
+    padding-top: 15px;
+}
+
+.buttons {
+    padding-left: 290px;
+}
+
+.first {
+    padding-left: 90px;
+    padding-top: 50px;
+}
+
+.last {
+    background-color: gray;
+    padding-left: 90px;
+    padding-top: 50px;
+}
+
+.summary {
+    background-color: gray;
+    padding-left: 100px;
+    padding-top: 50px;
+}
+
+.row-one {
+    height: 120px;
+}
+
+.row-two {
+    height: 120px;
+}
+
+.row-three {
+    height: 360px;
+}
